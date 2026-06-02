@@ -122,6 +122,7 @@ platform_do_upgrade() {
 	bananapi,bpi-r4-2g5|\
 	bananapi,bpi-r4-poe|\
 	bananapi,bpi-r4-lite|\
+	bananapi,bpi-r4-pro-4e|\
 	bananapi,bpi-r4-pro-8x|\
 	bazis,ax3000wm|\
 	cmcc,a10-ubootmod|\
@@ -328,6 +329,7 @@ platform_check_image() {
 	bananapi,bpi-r4-2g5|\
 	bananapi,bpi-r4-poe|\
 	bananapi,bpi-r4-lite|\
+	bananapi,bpi-r4-pro-4e|\
 	bananapi,bpi-r4-pro-8x|\
 	bazis,ax3000wm|\
 	cmcc,a10-ubootmod|\
@@ -395,6 +397,7 @@ platform_copy_config() {
 	bananapi,bpi-r4-2g5|\
 	bananapi,bpi-r4-poe|\
 	bananapi,bpi-r4-lite|\
+	bananapi,bpi-r4-pro-4e|\
 	bananapi,bpi-r4-pro-8x|\
 	cmcc,rax3000m|\
 	gatonetworks,gdsp|\
