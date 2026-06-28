@@ -1,0 +1,7 @@
+CONFIG_TARGET_mediatek=y
+CONFIG_TARGET_mediatek_filogic=y
+CONFIG_TARGET_mediatek_filogic_DEVICE_bananapi_bpi-r4-pro-8x=y
+CONFIG_PACKAGE_kmod-rtl8188eu=y
+CONFIG_PACKAGE_kmod-mt76x2u=y
+CONFIG_PACKAGE_wpad-basic-mbedtls=y
+CONFIG_PACKAGE_luci=y
